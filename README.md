@@ -1,8 +1,8 @@
 # Ex-08-Data-Visualization
 # DATE:
-GITHUB LINK:
+GITHUB LINK:https://github.com/Hariharan5354/Ex-08-Data-Visualization-.git
 
-COLAB LINK:
+COLAB LINK:https://colab.research.google.com/drive/1nXDVyh1mj5cR6EB-oRSHLVB40BcXlOk-?usp=sharing
 ## AIM
 To Perform Data Visualization on the given dataset and save the data to a file.  
 
